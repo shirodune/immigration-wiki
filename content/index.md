@@ -1,8 +1,13 @@
+---
+title: "Study Abroad and Immigration Wiki"
+publish: true
+---
+
 # Study Abroad and Immigration Wiki
 
 > Provenance-first research on study abroad and immigration. Information is jurisdiction-specific, changes over time, and is not legal advice.
 >
-> Last updated: 2026-07-17 | Research pages: 18 | Approved for publication: 18
+> Last updated: 2026-07-18 | Research pages: 18 | Approved pages including homepage: 19
 
 ## Source records
 
@@ -44,10 +49,3 @@
 ## Filed queries
 
 <!-- Newest first. -->
-
-## Editorial resources
-
-- [[SCHEMA]] — concise structure and required rules.
-- [[_meta/editorial-guide]] — provenance, currency, legal-safety, and publication guidance.
-- [[_meta/research-page-template]] — template for synthesized research pages.
-- [[_meta/source-record-template]] — template for source capture and copyright metadata.

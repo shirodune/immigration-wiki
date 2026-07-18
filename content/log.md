@@ -87,3 +87,10 @@
   - `comparisons/canada-australia-new-zealand-student-visas.md`
 - Updated `index.md` and `log.md`.
 - Source records remain metadata, citations, original summaries, and limitations only; all use `redistribution: link-summary-only`.
+
+## [2026-07-18] publish | Public homepage enabled
+
+- User clarified that supplied wiki links and new research should be published without a separate publication-approval prompt.
+- Added exact Boolean `publish: true` frontmatter to `index.md`, bringing the approved-page total to 19.
+- Removed homepage links to private schema and `_meta` editorial files so the public index does not point to intentionally excluded pages.
+- Files updated: `index.md`, `log.md`.
